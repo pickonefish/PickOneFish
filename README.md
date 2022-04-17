@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![pickonefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pickonefish)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Deltaww.com
+
+[![pickonefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pickonefish&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
